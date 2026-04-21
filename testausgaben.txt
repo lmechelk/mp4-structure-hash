@@ -1,0 +1,91 @@
+Hinweise
+YT = YouTube social media
+wa = whattsapp social media
+d01 = Samsung GalaxyS3mini
+d03 = Huawei p9
+gemini katze = ki generiert mit veo 3.1
+
+#################
+
+--- MP4 PARSE ---
+File analyzed: gemini katze1.mp4
+
+--- Signature ---
+ftyp|free|uuid|mdat|moov(mvhd,trak(tkhd,edts(elst),mdia(mdhd,hdlr,minf(vmhd,dinf(dref),stbl(stsd(avc1(avcC,btrt)),stts,stss,ctts,stsc,stsz,stco)))),trak(tkhd,edts(elst),mdia(mdhd,hdlr,minf(smhd,dinf(dref),stbl(stsd(mp4a(esds,btrt)),stts,stsc,stsz,stco,sgpd,sbgp)))),udta(meta(hdlr,ilst)))
+
+--- Statistics ---
+String length: 288 characters
+Total boxes parsed: 54
+Contains 'uuid': True
+Parsing Errors: False
+
+#
+
+--- MP4 PARSE ---
+File analyzed: D01_V_flat_move_0001.mp4
+
+--- Signature ---
+ftyp|mdat|moov(mvhd,udta(smrd,smta),trak(tkhd,mdia(mdhd,hdlr,minf(vmhd,dinf(dref),stbl(stsd(avc1(avcC)),stts,stss,stsz,stsc,stco)))),trak(tkhd,mdia(mdhd,hdlr,minf(smhd,dinf(dref),stbl(stsd(mp4a(esds)),stts,stsz,stsc,stco)))))
+
+--- Statistics ---
+String length: 225 characters
+Total boxes parsed: 42
+Contains 'uuid': False
+Parsing Errors: False
+
+#
+
+--- MP4 PARSE ---
+File analyzed: D01_V_flat_move_0002.mp4
+
+--- Signature ---
+ftyp|mdat|moov(mvhd,udta(smrd,smta),trak(tkhd,mdia(mdhd,hdlr,minf(vmhd,dinf(dref),stbl(stsd(avc1(avcC)),stts,stss,stsz,stsc,stco)))),trak(tkhd,mdia(mdhd,hdlr,minf(smhd,dinf(dref),stbl(stsd(mp4a(esds)),stts,stsz,stsc,stco)))))
+
+--- Statistics ---
+String length: 225 characters
+Total boxes parsed: 42
+Contains 'uuid': False
+Parsing Errors: False
+
+
+#
+
+--- MP4 PARSE ---
+File analyzed: D03_V_flat_move_0001.mp4
+
+--- Signature ---
+ftyp|moov(mvhd,meta(hdlr,keys,ilst),trak(tkhd,mdia(mdhd,hdlr,minf(vmhd,dinf(dref),stbl(stsd(avc1(avcC,pasp)),stts,stss,stsz,stsc,co64)))),trak(tkhd,mdia(mdhd,hdlr,minf(smhd,dinf(dref),stbl(stsd(mp4a(esds)),stts,stsz,stsc,co64)))))|free|mdat
+
+--- Statistics ---
+String length: 240 characters
+Total boxes parsed: 45
+Contains 'uuid': False
+Parsing Errors: False
+
+#
+
+--- MP4 PARSE ---
+File analyzed: D01_V_flatWA_move_0001.mp4
+
+--- Signature ---
+ftyp|beam|wide|moov(mvhd,trak(tkhd,free,mdia(mdhd,hdlr,minf(vmhd,dinf(dref),stbl(stsd(avc1(avcC,colr)),stts,stss,sdtp,stsc,stsz,stco)))),trak(tkhd,free,mdia(mdhd,hdlr,minf(smhd,dinf(dref),stbl(stsd(mp4a(esds)),stts,stsc,stsz,stco)))))|mdat
+
+--- Statistics ---
+String length: 239 characters
+Total boxes parsed: 45
+Contains 'uuid': False
+Parsing Errors: False
+
+#
+
+--- MP4 PARSE ---
+File analyzed: D01_V_flatYT_move_0001.mp4
+
+--- Signature ---
+ftyp|free|mdat|moov(mvhd,trak(tkhd,edts(elst),mdia(mdhd,hdlr,minf(vmhd,dinf(dref),stbl(stsd(avc1(avcC)),stts,stss,ctts,stsc,stsz,stco)))),trak(tkhd,edts(elst),mdia(mdhd,hdlr,minf(smhd,dinf(dref),stbl(stsd(mp4a(esds)),stts,stsc,stsz,stco)))),udta(meta(hdlr,ilst)))    
+
+--- Statistics ---
+String length: 263 characters
+Total boxes parsed: 49
+Contains 'uuid': False
+Parsing Errors: False
